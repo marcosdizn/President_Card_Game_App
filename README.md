@@ -1,4 +1,4 @@
-# President Card Game
+# 🎴 President Card Game
 
 ## Introduction
 Welcome to the **President Card Game** project! This Android app is a digital adaptation of the popular card game *President* (also known as *Culo* or *Cabrón*). Developed in **Android Studio**, it features AI-driven opponents powered by a **Multilayer Perceptron Neural Network (MLP)**, providing a more strategic and engaging gameplay experience.
@@ -11,12 +11,12 @@ This project includes the **full source code of the Android application**, while
 - 🔗 **Neural Network Integration** – Uses an **MLP neural network** for strategic decision-making.  
 - 📱 **Smooth Android UI** – Designed for an intuitive and responsive gameplay experience.  
 
-## Technologies Used
+## 🛠️ Technologies Used
 - **Programming Language**: Java  
 - **Development Environment**: Android Studio  
 - **Machine Learning**: Multilayer Perceptron Neural Network (MLP)  
 
-## Setup Instructions
+## ⚙️ Setup Instructions
 1. Clone this repository:  
    ```sh
    git clone https://github.com/marcosdizn/President_Card_Game_App
@@ -24,6 +24,9 @@ This project includes the **full source code of the Android application**, while
 2. Open it in **Android Studio**.
 3. Build and run the project on an Android device or emulator.
 
-## Contributing
-Feel free to fork this repository and submit issues or pull requests. Contributions are always welcome!
+## 🤝 Contributing  
+We welcome contributions to enhance functionality and optimize performance. To contribute:  
+1. Fork this repository.  
+2. Create a new branch for your feature.  
+3. Submit a pull request with a detailed description of changes.  
 
