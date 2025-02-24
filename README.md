@@ -5,7 +5,7 @@ Welcome to the **President Card Game** project! This Android app is a digital ad
 
 This project includes the **full source code of the Android application**, while the AI intelligence powering the bots is developed separately in the [President Card Game Intelligence](https://github.com/marcosdizn/President_Card_Game_Intelligence) repository.
 
-## Features
+## ✨Features
 - 🎴 **Classic Card Game Mechanics** – Experience the traditional rules of the President card game.  
 - 🧠 **AI-Powered Opponents** – Play against intelligent computer-controlled players.  
 - 🔗 **Neural Network Integration** – Uses an **MLP neural network** for strategic decision-making.  
